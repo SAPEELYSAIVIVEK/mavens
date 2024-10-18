@@ -32,7 +32,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>saivivek12.App</mainClass>
+                            <mainClass>saivivek12.app</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
